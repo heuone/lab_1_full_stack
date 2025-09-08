@@ -1,0 +1,93 @@
+[
+  {
+    "department": "Administration",
+    "names": [
+        "Zoë Robins", 
+        "Madeleine Madden"
+    ]
+  },
+  {
+    "department": "Audit",
+    "names": [
+        "Josha Sadowski", 
+        "Kate Fleetwood"
+    ]
+  },
+  {
+    "department": "Banking Operations",
+    "names": [
+        "Priyanka Bose",
+        "Hammed Animashaun",
+        "Álvaro Morte",
+        "Taylor Napier",
+        "Alan Simmonds"
+    ]
+  },
+  {
+    "department": "Communications",
+    "names": [
+        "Gil Cardinal", 
+        "Richard J. Lewis"
+    ]
+  },
+  {
+    "department": "Corporate Services",
+    "names": [
+        "Randy Bradshaw", 
+        "Tracey Cook", 
+        "Lubomir Mykytiuk"
+    ]
+  },
+  {
+    "department": "Facilities",
+    "names": [
+        "Dakota House",
+        "Lori Lea Okemah",
+        "Renae Morrisseau",
+        "Rick Belcourt"
+    ]
+  },
+  {
+    "department": "Financial Services",
+    "names": [
+        "Selina Hanusa",
+        "Buffy Gaudry",
+        "Shaneen Ann Fox",
+        "Allan Little",
+        "Danny Rabbit"
+    ]
+  },
+  {
+    "department": "Human Resources",
+    "names": [
+        "Jesse Ed Azure",
+        "Stacy Da Silva",
+        "Vladimír Valenta",
+        "Samone Sayeses-Whitney",
+        "Paul Coeur"
+    ]
+  },
+  {
+    "department": "Information Technology",
+    "names": [
+        "Graham Greene",
+        "Sandika Evergreen",
+        "Jennifer Rodriguez (Software Developer)"
+    ]
+  },
+  {
+    "department": "IT Technician",
+    "names": [
+        "Aiyana Littlebear",
+        "Inara Thunderbird",
+        "Kaya Runningbrook",
+        "Elara Firehawk",
+        "Siona Moonflower",
+        "Kaiyu Greywolf",
+        "Ayawamat Nightwind",
+        "Tala Braveheart",
+        "Iniko Stonebear",
+        "Onatah Redhawk"
+    ]
+  }
+]
