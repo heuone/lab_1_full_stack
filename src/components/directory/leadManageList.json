@@ -1,0 +1,150 @@
+{
+  "executives": [
+    {
+      "role": "CEO / Chair of Board",
+      "description": "A chief executive officer, the highest-ranking person in a company or other institution, ultimately responsible for making managerial decisions."
+    },
+    {
+      "role": "COO / VP Operations",
+      "description": "The chief operating officer (COO) is responsible for executing and implementing the operational directives set by the CEO and the board of directors."
+    },
+    {
+      "role": "CFO / VP Administration",
+      "description": "A chief financial officer, a senior executive with responsibility for the financial affairs of a corporation or other institution. The vice president of administration directs all administrative functions in line with industry standards, regulatory requirements, and company objectives."
+    },
+    {
+      "role": "CIO",
+      "description": "Chief Information Officer, responsible for information technology and computer systems that support the organization's goals."
+    },
+    {
+      "role": "VP Client Services",
+      "description": "Responsible for the Consumer and Commercial Banking divisions, performing roles including lending, investing, risk management, marketing, and technology. Provides solutions to help retail customers meet their financial goals."
+    },
+    {
+      "role": "VP Marketing",
+      "description": "Responsible for the overall strategic marketing plans for the organization in order to attract potential customers and retain existing ones."
+    }
+  ],
+  "directors": [
+    {
+      "role": "Director Human Resources",
+      "description": "Responsible for organizational development, recruitment, staffing, employment law, performance management, employee relations, and compensation and benefits."
+    },
+    {
+      "role": "Director Financial and Audit Services",
+      "description": "Ensures the company conducts its business in compliance with all relevant laws, regulations, professional standards, and accepted business practices."
+    },
+    {
+      "role": "Director Legal Services / General Counsel",
+      "description": "The senior executive managing legal affairs for the company."
+    },
+    {
+      "role": "Director Information Technology",
+      "description": "Manages IT infrastructure, operations, and services, enabling businesses and individuals to access and use data and services."
+    },
+    {
+      "role": "Director Information Security and CISO",
+      "description": "Responsible for establishing and maintaining the security vision, strategy, and program to ensure information assets and technologies are adequately protected."
+    },
+    {
+      "role": "Director Accounting",
+      "description": "Responsible for analysis and reconciliation of accounts and development and implementation of accounting policies, procedures, and controls."
+    },
+    {
+      "role": "Director Physical Security",
+      "description": "Responsible for identifying, assessing, and integrating physical security operations, technology, and policy solutions at the organization."
+    },
+    {
+      "role": "Director Facilities",
+      "description": "Responsible for overseeing facilities management to ensure efficient and safe operations."
+    }
+  ],
+  "managers": [
+    {
+      "role": "Manager, Business Continuity and Disaster Recovery",
+      "description": "Develop, maintain, or implement business continuity and disaster recovery strategies and solutions, including risk assessments, business impact analyses, and documentation."
+    },
+    {
+      "role": "Manager, Internal Audit",
+      "description": "Performs full audits, including risk management, control management, and assessing financial reliability."
+    },
+    {
+      "role": "Manager, Security Architecture",
+      "description": "Designs and oversees the implementation of security measures for information systems, ensuring compliance with security policies."
+    },
+    {
+      "role": "Manager, Operational Risk",
+      "description": "Monitors, handles, and measures operational and economic risk exposures to minimize risk and implement controls."
+    },
+    {
+      "role": "Manager Purchasing",
+      "description": "Leads global procurement efforts to maximize value from suppliers and meet business objectives."
+    },
+    {
+      "role": "Manager, Customer Experience and Community Engagement",
+      "description": "Fosters customer loyalty through high-quality interactions and improves overall customer experience."
+    },
+    {
+      "role": "Manager of Sales",
+      "description": "Leads a sales team, providing guidance, training, mentorship, and creating sales plans and quotas."
+    },
+    {
+      "role": "Manager, Marketing",
+      "description": "Develops, implements, and executes strategic marketing plans to attract potential customers and retain existing ones."
+    },
+    {
+      "role": "Manager, IT End User Service Desk",
+      "description": "Manages daily operations of the service desk and ensures the team is constantly developing and improving."
+    },
+    {
+      "role": "Manager, End User Computing",
+      "description": "Delivers day-to-day support for end-user computing services organization-wide."
+    },
+    {
+      "role": "Manager, IT Telecom, and Infrastructure",
+      "description": "Responsible for daily operations of infrastructure, telecom, and support staff, ensuring service needs are met."
+    },
+    {
+      "role": "Manager, Data Center and Hosting Services",
+      "description": "Oversees day-to-day operations of the datacenter, cloud services, and ensures high availability of data."
+    },
+    {
+      "role": "Manager, Risk Management",
+      "description": "Identifies, assesses, and mitigates risks that could jeopardize the organization's assets, profitability, or existence."
+    }
+  ],
+  "specialists": [
+    {
+      "role": "Incident Coordinator",
+      "description": "Manages the lifecycle of unplanned interruptions, malfunctions, and quality reductions of IT services."
+    },
+    {
+      "role": "Service Desk Analyst",
+      "description": "Acts as the first point of contact for customers experiencing technical issues, troubleshooting and providing support."
+    },
+    {
+      "role": "Deskside and Application Support",
+      "description": "Provides expert IT advice and support to internal employees and manages escalation procedures for technical issues."
+    },
+    {
+      "role": "Network Administrator",
+      "description": "Maintains, troubleshoots, and administers LANs, WANs, mainframe networks, and peripheral equipment."
+    },
+    {
+      "role": "Network Infrastructure Technician",
+      "description": "Monitors network infrastructure, documents procedures, and provides tier 2 and tier 3 technical support."
+    },
+    {
+      "role": "Information Security Analyst/Specialist",
+      "description": "Protects IT infrastructure from breaches, detects threats, and takes necessary actions to resolve them."
+    },
+    {
+      "role": "Junior Network Architect",
+      "description": "Assists the Network Administrator in implementing and testing network solutions and updating devices."
+    },
+    {
+      "role": "IT Technician",
+      "description": "Responsible for setting up, managing, and troubleshooting technology systems and providing end-user support."
+    }
+  ]
+}
