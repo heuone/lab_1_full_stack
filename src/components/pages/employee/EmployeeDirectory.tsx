@@ -1,7 +1,7 @@
 // https://www.altcademy.com/blog/how-to-import-json-file-in-reactjs/
 // Researched how to import a json file in react file and implementing it to render a list
 
-import employees from "../components/directory/employeeList.json"; 
+import employees from "../../directory/employeeList.json"; 
 
 export default function EmployeeDirectory() {
   return (
