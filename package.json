@@ -32,7 +32,10 @@
   },
   "homepage": "https://github.com/heuone/lab_1_full_stack#readme",
   "dependencies": {
+    "@clerk/clerk-react": "^5.57.0",
+    "@clerk/express": "^1.7.53",
     "@prisma/client": "^6.19.0",
+    "cors": "^2.8.5",
     "swagger-jsdoc": "^6.2.8",
     "swagger-ui-express": "^5.0.1"
   }
